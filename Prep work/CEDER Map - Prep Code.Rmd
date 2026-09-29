@@ -313,7 +313,7 @@ labels_city_filter <- sprintf("<strong>%s</strong><br/>%s", city_sf_filter$city_
 #### LEAFLET MAP ####
   
 #map
-map_ceder <- leaflet(state_sf) %>%
+map_ceder <- leaflet(state_sf,width = "100%", height = "800px") %>%
   # define custom panes for z-ordering circle markers so NIDDK stays underneath
   addMapPane("niddkPane", zIndex = 400) %>%  # lower
   addMapPane("cityPane",  zIndex = 500) %>%  # higher
