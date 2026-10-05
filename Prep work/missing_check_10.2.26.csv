@@ -1,0 +1,5 @@
+"","location","city_match","state_abbr","type","freq_city_type","institutions_lab","city_lab","state_fips","geometry"
+"1","Bismarck, North Dakota","Bismarck","North Dakota","Project Locations",1,"University of Colorado Anschutz (1)","Bismarck, North Dakota <br>Project Locations",NA,c(NA, NA)
+"2","Gainseville, AL","Gainseville","AL","Project Locations",1,"ConnectionHealth (1)","Gainseville, AL <br>Project Locations","01",c(NA, NA)
+"3","Papakolea, HI","Papakolea","HI","Client Locations",1,"Kula no na Po'e Hawai'i (1)","Papakolea, HI <br>Client Locations","15",c(NA, NA)
+"4","Papakōlea homestead, Hawaii","Papakōlea homestead","Hawaii","Project Locations",1,"Kula no na Po’e Hawai’i (1)","Papakōlea homestead, Hawaii <br>Project Locations",NA,c(NA, NA)
